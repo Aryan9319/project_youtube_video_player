@@ -17,3 +17,5 @@ Covered topics:
 Suggested improvements:
 - you should use Material-UIs makeStyles() hook instead of styles-prop to style your components
 - implement mobile friendly UI
+**please add my Text**
+the text is "Free to help"
